@@ -1,6 +1,6 @@
 {
   "name": "git",
-  "version": "1.1.1",
+  "version": "1.3.4",
   "description": "Git是一种***分布式***的版本管理工具！\r 所谓分布式：是指仓库文件可以存储在任意的位置（磁盘，U盘，网络）",
   "main": "index.js",
   "scripts": {
